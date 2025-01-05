@@ -87,6 +87,7 @@ __sapper__/
 !src/main.tsx
 !src/types.ts
 !src/vite-env.d.ts
+!src/App.tsx
 
 # Ignore node_modules
 node_modules/
