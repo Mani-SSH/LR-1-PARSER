@@ -81,6 +81,13 @@ __sapper__/
 # Optional stylelint cache
 .stylelintcache
 
+# Do not ignore specific TypeScript files
+!src/components/**
+!src/types/**
+!src/main.tsx
+!src/types.ts
+!src/vite-env.d.ts
+
 # Ignore node_modules
 node_modules/
 
